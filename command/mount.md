@@ -77,6 +77,16 @@ mount [-fnrsvw] [-t vfstype] [-o options] device dir
 mount -t davfs https://your.webdav.link.here /path/to/mount
 ```
 
+### 实例3
+系统启动时自动挂载，如将分区挂载为/home或swap
+```
+sudo vi /etc/fstab
+```
+加入：
+```
+/dev/sdb1 /home    xfs     defaults        0 0  # /dev/sdb1 为物理装置，也可以用UUID
+/dev/sdb5 swap     swap    defaults        0 0
+```
 
 
 
