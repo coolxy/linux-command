@@ -10,13 +10,6 @@
   <a href="https://github.com/Doloffer-g/guide"><b>DolOffer - 一站式数字订阅充值平台</b></a><br>
   <a href="https://doloffer.com">主营 GPT、Claude 等 AI 多类数字服务会员正版订阅，9 折优惠码 AI8888，极速发货，售后无忧</a><br><br>
 
-  <a href="https://pawakalabs.com/products/fakey/">
-    <img alt="Fakey sponsorship" width="400" src="./template/img/fakey.png">
-  </a>
-  <br>
-  <a href="https://pawakalabs.com/products/fakey/"><b>Fakey - Manga Translator</b></a><br>
-  <a href="https://pawakalabs.com/products/fakey/">Available for Android, iOS and browser extension</a><br><br>
-
   <br><br>
 </div>
 <hr>
